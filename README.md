@@ -7,4 +7,4 @@ Problem Statement : Classifying faces of Indian film actors/actresses according 
 Papers relevant to this problem are added :
 
 Paper introducing IMFDB dataset
-Paper explaining Viola-Jones algorithm for real-time object detection
+Paper explaining Viola-Jones algorithm for real-time object detection.
